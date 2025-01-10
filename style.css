@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+}
+.logo{
+    height: 100px;
+    width: 200px;;
+    display: flex;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    margin-right: -500px;
+    margin-left: 1200px;;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+color:white;
+}
+
+h1{
+    color: white;
+}
+
+h4{
+    color: white;
+}
