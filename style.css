@@ -7,8 +7,8 @@
     display: flex;
     margin-top: -50px;
     margin-bottom: 0px;
-    margin-right: -500px;
-    margin-left: 1200px;;
+    margin-right: -900px;
+    margin-left: 1705px;;
 }
 
 body{
@@ -25,4 +25,12 @@ h1{
 
 h4{
     color: white;
+}
+
+a{
+    color: white;
+}
+
+.index-img{
+    margin-left:550px;
 }
